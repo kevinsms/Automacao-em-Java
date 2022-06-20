@@ -27,7 +27,7 @@ Com essa Funcionalidade iremos verificar se o produto foi adicionado na Lista de
         E Produto Estiver na Lista de Desejo
         Então Selecionar Produto a ser Excluido
 
-    Cenário: Validar a exibição da mensagem de erro ao tentar adicionar um produto a lista de desejos e não estar logado
+    Cenário: Validar a exibição da mensagem de erro ao tentar adicionar um produto a lista de desejos e não estar logadoo
         Dado Estiver na Tela Principal da Aplicação
         Quando Escolher o Produto para Adiconar na Lista de Desjos
         Então Uma Mensagem de Erro Aparecera
